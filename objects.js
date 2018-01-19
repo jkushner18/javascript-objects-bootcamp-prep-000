@@ -2,7 +2,7 @@ var playlist = {eminem:"stan"}
 
 function updatePlaylist(playlist, artistName, songTitle){
   
-playlist.artistName=singTitle;
+playlist.artistName=songTitle;
 
 return playlist
   
